@@ -1,0 +1,11 @@
+c:\users\manjesh\documents\visual studio 2013\Projects\VtuDBProject\VtuDBProject\bin\Debug\VtuDBProject.exe.config
+c:\users\manjesh\documents\visual studio 2013\Projects\VtuDBProject\VtuDBProject\bin\Debug\VtuDBProject.exe
+c:\users\manjesh\documents\visual studio 2013\Projects\VtuDBProject\VtuDBProject\bin\Debug\VtuDBProject.pdb
+c:\users\manjesh\documents\visual studio 2013\Projects\VtuDBProject\VtuDBProject\obj\Debug\VtuDBProject.Form1.resources
+c:\users\manjesh\documents\visual studio 2013\Projects\VtuDBProject\VtuDBProject\obj\Debug\VtuDBProject.Form2.resources
+c:\users\manjesh\documents\visual studio 2013\Projects\VtuDBProject\VtuDBProject\obj\Debug\VtuDBProject.Properties.Resources.resources
+c:\users\manjesh\documents\visual studio 2013\Projects\VtuDBProject\VtuDBProject\obj\Debug\VtuDBProject.csproj.GenerateResource.Cache
+c:\users\manjesh\documents\visual studio 2013\Projects\VtuDBProject\VtuDBProject\obj\Debug\VtuDBProject.exe
+c:\users\manjesh\documents\visual studio 2013\Projects\VtuDBProject\VtuDBProject\obj\Debug\VtuDBProject.pdb
+c:\users\manjesh\documents\visual studio 2013\Projects\VtuDBProject\VtuDBProject\obj\Debug\VtuDBProject.csprojResolveAssemblyReference.cache
+c:\users\manjesh\documents\visual studio 2013\Projects\VtuDBProject\VtuDBProject\obj\Debug\VtuDBProject.Form3.resources

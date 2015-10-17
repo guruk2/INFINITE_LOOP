@@ -1,0 +1,41 @@
+.form-signin {
+  max-width: 400px;
+  display:block;
+  background-color: #f7f7f7;
+  -moz-box-shadow: 0 0 3px 3px #888;
+    -webkit-box-shadow: 0 0 3px 3px #888;
+	box-shadow: 0 0 3px 3px #888;
+  border-radius:2px;
+  margin-top: 20%;
+}
+
+@media only screen and (max-width: 479px) {
+  .form-signin {
+    margin-top: 40%;
+  }
+}
+
+.social-box{
+  margin: 0 auto;
+  padding: 38px;
+  border-bottom:1px #ccc solid;
+}
+.social-box a{
+  font-weight:bold;
+  font-size:18px;
+  padding:8px;
+}
+.social-box a i{
+  font-weight:bold;
+  font-size:20px;
+}
+.heading-desc{
+	font-size:20px;
+	font-weight:bold;
+	padding:38px 38px 0px 38px;
+
+}
+
+.mg-btm{
+	margin-bottom:20px;
+}

@@ -1,0 +1,187 @@
+
+/*--login--*/
+.login-form {
+  margin: 0;
+  background: #ffffff;
+  padding: 0;
+  position:relative;
+z-index:1;
+}
+.login-pad {
+  padding:3em 3em 1.3em;
+}
+.login-form h3 {
+  margin: 0 0 30px 0;
+  font-size: 1.6em;
+  color: #373737;
+  text-align: center;
+  font-family: 'Abel-Regular';
+}
+.login-form form input[type="text"], .login-form form input[type="password"] {
+  margin: 0 0 30px 0;
+  width: 100%;
+  padding: 12px 15px 12px 50px;
+  font-size: 1.2em;
+  outline: none;
+  color: #373737;
+}
+.login-form form{
+	margin-bottom:24px;
+}
+.login-form form input[type="text"] {
+  background: url(../images/msg.png) no-repeat 15px 13px;
+  border: 1px solid #C2C2C2;
+}
+.login-form form input[type="password"] {
+	background:url(../images/key.png) no-repeat 15px 14px;
+	margin-bottom: 0px;
+	border: 1px solid #C2C2C2;
+}
+.login-form form input[type="password"]:hover,.login-form form input[type="text"]:hover {
+  border: 1px solid #ec6e3c;
+}
+.login-form input[type="submit"] {
+  background: #E64608;
+  width: 51%;
+  font-size: 1.2em;
+  margin: 2em 4.5em 0;
+  color: #ffffff;
+  padding: 12px 0px;
+  border: none;
+  transition: 0.5s all;
+  border: 1px solid #E64608;
+  -webkit-transition: 0.5s all;
+  -moz-transition: 0.5s all;
+  -o-transition: 0.5s all;
+  -ms-transition: 0.5s all;
+  outline:none;
+}
+.login-form input[type="submit"]:hover {
+  color: rgb(230, 70, 8);
+  background-color: #fff;
+}
+.login-pad a {
+  font-size: 1.2em;
+  color: #e69f83;
+  text-align: center;
+  display: inherit;
+}
+.login-pad a:hover{
+	color: #373737;
+}
+.login-pad p {
+  margin: 1em 0;
+  text-align: center;
+  font-size: 1em;
+  color: #9D9B9B;
+  letter-spacing: 1px;
+}
+
+.login-pad {
+  padding: 3em 2em 1.3em;
+}
+.login-form h3 {
+  margin: 0 0 23px 0;
+}
+.login-form form input[type="text"], .login-form form input[type="password"] {
+  margin: 0 0 17px 0;
+  padding: 9px 15px 9px 50px;
+  font-size: 1em;
+}
+.login-form input[type="submit"] {
+  margin: 1em 4.5em 0;
+}
+
+.login-pad {
+  padding: 1.5em 1em 1.3em;
+}
+.login-form input[type="submit"] {
+  margin: 0.5em 2.5em 0;
+}
+.login-form input[type="submit"] {
+  margin: 0.5em 2.5em 0;
+  padding: 8px 0px;
+  font-size: 1em;
+}
+.login-form form input[type="password"] {
+  background: url(../images/key.png) no-repeat 15px 8px;
+}
+.login-form form input[type="text"] {
+  background: url(../images/msg.png) no-repeat 15px 7px;
+}
+.login-pad a {
+  font-size: 1em;
+}
+.login-pad p {
+  font-size: 0.9em;
+  letter-spacing: 0;
+  margin: 1em 0 0;
+}
+.new-grids {
+  float: left;
+  width: 50%;
+  background-color: #3469af;
+}
+.new-grids.twit-grid {
+  background-color: #4fc5f7;
+}
+.new-grids a {
+  color: #fff;
+  font-size: 1.1em;
+  letter-spacing: .5px;
+  text-align: center;
+  padding: 1.4em 2em;
+  display: block;
+}
+.new-grids a:hover {
+  color: #3469af;
+  background-color: #F0F0F0;
+}
+.new-grids.twit-grid:hover{
+	color: #4fc5f7;
+  background-color: #F0F0F0;
+}
+
+
+
+
+.login-form {
+  float: none;
+  width: 100%;
+  margin-top: 1em;
+}
+.login-pad {
+  padding: 2.5em 3em 1.3em;
+}
+.login-form input[type="submit"] {
+  margin: 0.5em 8em 0;
+}
+
+
+
+
+
+
+  
+.login-form input[type="submit"] {
+  margin: 0.5em 7em 0;
+}
+
+.login-pad {
+  padding: 2.5em 3em 1.3em;
+}
+.login-form input[type="submit"] {
+  margin: 0.5em 6em 0;
+}
+
+
+
+.login-pad {
+  padding: 2em 2em 1.3em;
+}
+.login-form input[type="submit"] {
+  margin: 0em 3em 0;
+  font-size: 0.9em;
+  padding: 5px 0px;
+}
+
